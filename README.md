@@ -47,20 +47,6 @@ I work across the stack with a stronger focus on **backend systems**, data model
 
 ### Featured Projects
 
-<a href="https://github.com/AsolBA/contact-directory-angular-dotnet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsolBA&repo=contact-directory-angular-dotnet&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/AsolBA/Dershane-otomasyon-sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsolBA&repo=Dershane-otomasyon-sistemi&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/AsolBA/yazlab-akilli-ev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsolBA&repo=yazlab-akilli-ev&theme=transparent&hide_border=true" />
-</a>
-
----
-
-<div align="center">
-
-Thanks for visiting — feel free to connect on LinkedIn.
-
-</div>
+- **[contact-directory-angular-dotnet](https://github.com/AsolBA/contact-directory-angular-dotnet)** — Angular + .NET contact directory (JWT, audit logs, occupations)
+- **[Dershane-otomasyon-sistemi](https://github.com/AsolBA/Dershane-otomasyon-sistemi)** — Course center automation system
+- **[yazlab-akilli-ev](https://github.com/AsolBA/yazlab-akilli-ev)** — Smart home lab project
